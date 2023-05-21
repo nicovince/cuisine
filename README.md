@@ -3,6 +3,7 @@
 ## Plats
 - [Veau Marengo](veau_marengo.md)
 - [Aubergines Farcies](aubergines_farcies.md)
+- [Flan d'épinards](flan_epinards.md)
 
 
 ## Desserts
