@@ -1,5 +1,4 @@
 #!/bin/bash
-set -x
 
 if [ $# -ne 2 ]; then
     echo "Usage:"
@@ -10,5 +9,5 @@ fi
 
 RECIPE_FILENAME="${1}.md"
 RECIPE_NAME="${2}"
-cat template.md | sed "s/^# Nom du plat/${RECIPE_NAME}/" > "${RECIPE_FILENAME}"
+cat template.md | sed "s/^# Nom du plat/# ${RECIPE_NAME}/" > "${RECIPE_FILENAME}"
 git add ${RECIPE_FILENAME}

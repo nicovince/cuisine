@@ -8,5 +8,8 @@ Lien vers la recette d'origine
 ## Recette
 1. Etapes de la recette
 
+## Recette Thermomix
+1. **x sec/yy°C/vitesse z**
+
 ## Modifications
 - Liste des modifications
