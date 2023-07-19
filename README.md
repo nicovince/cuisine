@@ -5,6 +5,7 @@
 - [Aubergines Farcies](aubergines_farcies.md)
 - [Flan d'épinards](flan_epinards.md)
 - [Poulet aux Citrons Confits et Olives](poulet_citron_confit.md)
+- [Moelleux aux Champignons et aux Lardons](moelleux_champignons_lardons.md)
 
 
 ## Desserts
