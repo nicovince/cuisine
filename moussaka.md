@@ -29,29 +29,27 @@ Préparation lentilles
 2. Réserver
 
 Préparation sauce tomate et aubergines
-3. Couper en tranches les aubergines
-4. (facultatif) Faire griller rapidement les tranches d'aubergines à feu vif avec 10g d'huile d'olive. Cette étape est facultative et il est possible si vous êtes pressé d'ajouter directement les aubergines dans le Varoma.
-5. Mettre 150 grammes d'oignons et 2 gousses d'ail dans le bol.
-6. **5s / 0°C / Vit. 8** avec couvercle et gobelet doseur
-7. Racler les parois du bol
-8. Ajouter 10g d'huile d'olive
-9. **5min / 100°C / Vit. 1**  avec couvercle et gobelet doseur
-10. Ajouter 800g de tomates concassées
-11. Ajouter 1 càs d'herbes de provence, 1 càs d'origan, 1 càc de gingembre moulu.
-12. Ajouter 120g de vin rouge (ou d'eau)
-13. Ajouter 1 càc de sel, 1/4 càc de poivre, 1/2 càc de cannelle en poudre
-14. Ajouter le varoma+plateau avec les aubergines réparties dedans.
-15. **25min / varoma / Vit. 1** sens inverse
-16. Egoutter et ajouter les lentilles corail dans le bol du thermomix
-17. **5min / 100°C / Vit. 2** sens inverse
-18. Transvaser dans un récipient et réserver.
-19. Préchauffer le four à 180°C
+1. Couper en tranches les aubergines
+2. (facultatif) Faire griller rapidement les tranches d'aubergines à feu vif avec 10g d'huile d'olive. Cette étape est facultative et il est possible si vous êtes pressé d'ajouter directement les aubergines dans le Varoma.
+3. Mettre 150 grammes d'oignons et 2 gousses d'ail dans le bol.
+4. Cuire **5s / 0°C / Vit. 8** avec couvercle et gobelet doseur
+5. Racler les parois du bol
+6. Ajouter 10g d'huile d'olive
+7. Cuire **5min / 100°C / Vit. 1**  avec couvercle et gobelet doseur
+8. Ajouter 800g de tomates concassées
+9. Ajouter 1 càs d'herbes de provence, 1 càs d'origan, 1 càc de gingembre moulu, 120g de vin rouge (ou d'eau), 1 càc de sel, 1/4 càc de poivre, 1/2 càc de cannelle en poudre
+10. Ajouter le varoma+plateau avec les aubergines réparties dedans.
+11. Cuire **25min / varoma / Vit. 1, sens inverse**
+12. Egoutter et ajouter les lentilles corail dans le bol du thermomix
+13. Cuire **5min / 100°C / Vit. 2, sens inverse**
+14. Transvaser dans un récipient et réserver.
+15. Préchauffer le four à 180°C
 
 Bechamel
-20. Nettoyer le bol
-21. Mettre 500 grammes de lait demi-écrémé
-22. Ajouter 60g farine, 40g de beurre, 1 càc de sel, 1/4 càc de noix de muscade moulue
-23. **7min30 / 90°C / Vit. 4**
+1. Nettoyer le bol
+2. Mettre 500 grammes de lait demi-écrémé
+3. Ajouter 60g farine, 40g de beurre, 1 càc de sel, 1/4 càc de noix de muscade moulue
+4. Cuire **7min30 / 90°C / Vit. 4**
 
 Montage
 24. Tapisser le fond d'un plat à gratin de la moitié des aubergines, couvrir avec les lentilles et les tomates puis étaler l'autre moitié de vos aubergines. Napper le tout avec la béchamel.
