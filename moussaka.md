@@ -52,9 +52,12 @@ https://www.cookomix.com/recettes/moussaka-lentilles-corail-thermomix/
 4. Cuire **7min30 / 90°C / Vit. 4**
 
 **Montage**
+> Faire dans le grand plat blanc
+
 1. Tapisser le fond d'un plat à gratin de la moitié des aubergines, couvrir avec les lentilles et les tomates puis étaler l'autre moitié de vos aubergines. Napper le tout avec la béchamel.
 2. Ajouter 100 grammes de parmesan rapé sur la préparation.
 3. Mettre dans le four pendant 45 min à 180°C.
+
 
 
 
