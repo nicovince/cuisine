@@ -13,6 +13,7 @@
 ## Desserts
 - [Gateau fondant au chocolat](gateau_chocolat_fondant.md)
 - [Crepes](crepes.md)
+- [Tarte aux Citrons Meringuée](tarte_citron_meringuee.md)
 
 ## Gouter
 - [Barres cereales](barre_cereale.md)
