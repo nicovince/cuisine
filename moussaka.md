@@ -1,7 +1,7 @@
 # Moussaka de lentilles corail
 
 ## Recette d'origine
-(https://www.cookomix.com/recettes/moussaka-lentilles-corail-thermomix/)
+https://www.cookomix.com/recettes/moussaka-lentilles-corail-thermomix/
 
 ## Ingrédients
 - 220g Lentilles corail
