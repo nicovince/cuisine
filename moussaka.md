@@ -24,11 +24,11 @@ https://www.cookomix.com/recettes/moussaka-lentilles-corail-thermomix/
 - 100g parmesan
 
 ## Recette Thermomix
-Préparation lentilles
+**Préparation lentilles**
 1. Mettre 220 grammes de lentilles corail dans un bol d'eau froide
 2. Réserver
 
-Préparation sauce tomate et aubergines
+**Préparation sauce tomate et aubergines**
 1. Couper en tranches les aubergines
 2. (facultatif) Faire griller rapidement les tranches d'aubergines à feu vif avec 10g d'huile d'olive. Cette étape est facultative et il est possible si vous êtes pressé d'ajouter directement les aubergines dans le Varoma.
 3. Mettre 150 grammes d'oignons et 2 gousses d'ail dans le bol.
@@ -45,16 +45,16 @@ Préparation sauce tomate et aubergines
 14. Transvaser dans un récipient et réserver.
 15. Préchauffer le four à 180°C
 
-Bechamel
+**Bechamel**
 1. Nettoyer le bol
 2. Mettre 500 grammes de lait demi-écrémé
 3. Ajouter 60g farine, 40g de beurre, 1 càc de sel, 1/4 càc de noix de muscade moulue
 4. Cuire **7min30 / 90°C / Vit. 4**
 
-Montage
-24. Tapisser le fond d'un plat à gratin de la moitié des aubergines, couvrir avec les lentilles et les tomates puis étaler l'autre moitié de vos aubergines. Napper le tout avec la béchamel.
-25. Ajouter 100 grammes de parmesan rapé sur la préparation.
-26. Mettre dans le four pendant 45 min à 180°C.
+**Montage**
+1. Tapisser le fond d'un plat à gratin de la moitié des aubergines, couvrir avec les lentilles et les tomates puis étaler l'autre moitié de vos aubergines. Napper le tout avec la béchamel.
+2. Ajouter 100 grammes de parmesan rapé sur la préparation.
+3. Mettre dans le four pendant 45 min à 180°C.
 
 
 
