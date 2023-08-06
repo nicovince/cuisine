@@ -1,4 +1,5 @@
-# Nom du plat
+# Moussaka de lentilles corail
+
 ## Recette d'origine
 (https://www.cookomix.com/recettes/moussaka-lentilles-corail-thermomix/)
 
