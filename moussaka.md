@@ -32,7 +32,7 @@ Préparation sauce tomate et aubergines
 1. Couper en tranches les aubergines
 2. (facultatif) Faire griller rapidement les tranches d'aubergines à feu vif avec 10g d'huile d'olive. Cette étape est facultative et il est possible si vous êtes pressé d'ajouter directement les aubergines dans le Varoma.
 3. Mettre 150 grammes d'oignons et 2 gousses d'ail dans le bol.
-4. Cuire **5s / 0°C / Vit. 8** avec couvercle et gobelet doseur
+4. Hacher **5s / 0°C / Vit. 8** avec couvercle et gobelet doseur
 5. Racler les parois du bol
 6. Ajouter 10g d'huile d'olive
 7. Cuire **5min / 100°C / Vit. 1**  avec couvercle et gobelet doseur
