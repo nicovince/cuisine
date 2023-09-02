@@ -11,6 +11,7 @@
 - [Moelleux aux Champignons et aux Lardons](moelleux_champignons_lardons.md)
 - [Flan aux Courgettes](flan_courgettes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
+- [Souvlaki de Poulet à la Grecque](souvlaki_de_poulet_grec.md)
 
 
 ## Desserts
