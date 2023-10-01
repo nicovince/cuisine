@@ -12,6 +12,7 @@
 - [Flan aux Courgettes](flan_courgettes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
 - [Souvlaki de Poulet à la Grecque](souvlaki_de_poulet_grec.md)
+- [Poulet sauce soja au gingembre](poulet_sauce_soja.md)
 
 
 ## Desserts
