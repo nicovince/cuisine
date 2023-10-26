@@ -15,6 +15,7 @@
 - [Poulet sauce soja au gingembre](poulet_sauce_soja.md)
 - [Curry de Pois Chiche](curry_de_pois_chiche.md)
 - [Butternut au reblochon](butternut_reblochon.md)
+- [Tartiflette](tartiflette.md)
 
 
 ## Desserts
