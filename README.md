@@ -16,6 +16,7 @@
 - [Curry de Pois Chiche](curry_de_pois_chiche.md)
 - [Butternut au reblochon](butternut_reblochon.md)
 - [Tartiflette](tartiflette.md)
+- [Soupe Courgettes Kiri](soupe_courgettes_kiri.md)
 
 
 ## Desserts
