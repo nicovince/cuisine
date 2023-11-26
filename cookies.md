@@ -12,7 +12,7 @@ Quantités pour environ 30 cookies
 - 300-400g de pépites de chocolats divers (noir, blanc, praliné, au lait)
 
 
-## Recette*
+## Recette
 1. Couper le beurre en morceau et le laisser ramollir.
 2. Préchauffer le four à 180°C
 3. Battre oeufs et sucre en ruban
