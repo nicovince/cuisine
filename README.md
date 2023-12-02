@@ -31,3 +31,4 @@
 ## Gouter
 - [Barres cereales](barre_cereale.md)
 - [Cookies](cookies.md)
+- [Sablés aux amandes ou noisettes](sables.md)
