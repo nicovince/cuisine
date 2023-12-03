@@ -22,6 +22,9 @@
 - [Moussaka aux lentilles corail](moussaka.md)
 - [Soupe Courgettes Kiri](soupe_courgettes_kiri.md)
 
+## Soupes
+- [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
+
 
 ## Desserts
 - [Crepes](crepes.md)
