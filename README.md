@@ -19,6 +19,7 @@
 - [Crumble de Courges](crumble_courge.md)
 - [Curry de Pois Chiche](curry_de_pois_chiche.md)
 - [Flan d'épinards](flan_epinards.md)
+- [Gratin de pommes de terre](gratin_pdt.md)
 - [Moussaka aux lentilles corail](moussaka.md)
 - [Soupe Courgettes Kiri](soupe_courgettes_kiri.md)
 
