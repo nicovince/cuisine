@@ -20,4 +20,4 @@ https://www.marmiton.org/recettes/recette_gratin-de-pommes-de-terre-fondant_3745
 1. **x sec/yy°C/vitesse z**
 
 ## Modifications
-- terminé avec une couche emmental + beurre.
+- gratin terminé avec une couche emmental + beurre.
