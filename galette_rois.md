@@ -6,7 +6,7 @@ https://www.marmiton.org/recettes/recette_galette-des-rois-a-la-frangipane_20147
 - 75g beurre
 - 100g sucre
 - 2 pates feuilletées
-- 140g sucre en poudre
+- 140g amande en poudre
 - 2 oeufs
 - 1 jaune d'oeuf
 - 2 fèves
@@ -23,4 +23,4 @@ https://www.marmiton.org/recettes/recette_galette-des-rois-a-la-frangipane_20147
 1. **x sec/yy°C/vitesse z**
 
 ## Modifications
-- peut être faite avec double quantité de garniture.
+- quantité x 1.5
