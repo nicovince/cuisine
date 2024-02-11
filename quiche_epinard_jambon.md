@@ -1,4 +1,4 @@
-# Quiche aux épinards et au Jambon
+# Quiche aux épinards et au jambon
 ## Recette d'origine
 https://www.marmiton.org/recettes/recette_quiche-aux-epinards_30738.aspx
 
