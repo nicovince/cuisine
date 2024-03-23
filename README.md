@@ -33,6 +33,7 @@
 - [Galette des Rois](galette_rois.md)
 - [Gateau fondant au chocolat](gateau_chocolat_fondant.md)
 - [Tarte aux Citrons Meringuée](tarte_citron_meringuee.md)
+- [Paves au Chocolat Amandes ou Coco](pave_chocolat_amandes_coco.md)
 
 ## Gouter
 - [Barres cereales](barre_cereale.md)
