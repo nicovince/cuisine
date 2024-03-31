@@ -11,6 +11,7 @@
 - [Poulet aux Citrons Confits et Olives](poulet_citron_confit.md)
 - [Poulet sauce soja au gingembre](poulet_sauce_soja.md)
 - [Quiche aux épinards et au Jambon](quiche_epinard_jambon.md)
+- [Sauté de Veau aux pommes de terre et carottes](saute_veau_pdt_carottes.md)
 - [Souvlaki de Poulet à la Grecque](souvlaki_de_poulet_grec.md)
 - [Tartiflette](tartiflette.md)
 - [Veau Marengo](veau_marengo.md)
