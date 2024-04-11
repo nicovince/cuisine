@@ -23,10 +23,10 @@
 - [Flan d'épinards](flan_epinards.md)
 - [Gratin de pommes de terre](gratin_pdt.md)
 - [Moussaka aux lentilles corail](moussaka.md)
-- [Soupe Courgettes Kiri](soupe_courgettes_kiri.md)
 
 ## Soupes
 - [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
+- [Soupe Courgettes et Kiri](soupe_courgettes_kiri.md)
 - [Soupe Courgette, Kiri et Pommes de terre](soupe_courgette_kiri_pdt.md)
 
 
