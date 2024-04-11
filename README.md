@@ -27,6 +27,7 @@
 
 ## Soupes
 - [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
+- [Soupe Courgette, Kiri et Pommes de terre](soupe_courgette_kiri_pdt.md)
 
 
 ## Desserts
