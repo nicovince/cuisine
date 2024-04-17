@@ -11,6 +11,7 @@
 - [Poulet aux Citrons Confits et Olives](poulet_citron_confit.md)
 - [Poulet sauce soja au gingembre](poulet_sauce_soja.md)
 - [Quiche aux épinards et au Jambon](quiche_epinard_jambon.md)
+- [Sauté de Veau aux pommes de terre et carottes](saute_veau_pdt_carottes.md)
 - [Souvlaki de Poulet à la Grecque](souvlaki_de_poulet_grec.md)
 - [Tartiflette](tartiflette.md)
 - [Veau Marengo](veau_marengo.md)
@@ -22,10 +23,11 @@
 - [Flan d'épinards](flan_epinards.md)
 - [Gratin de pommes de terre](gratin_pdt.md)
 - [Moussaka aux lentilles corail](moussaka.md)
-- [Soupe Courgettes Kiri](soupe_courgettes_kiri.md)
 
 ## Soupes
 - [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
+- [Soupe Courgettes et Kiri](soupe_courgettes_kiri.md)
+- [Soupe Courgette, Kiri et Pommes de terre](soupe_courgette_kiri_pdt.md)
 
 
 ## Desserts
