@@ -22,6 +22,7 @@
 - [Curry de Pois Chiche](curry_de_pois_chiche.md)
 - [Flan d'épinards](flan_epinards.md)
 - [Gratin de pommes de terre](gratin_pdt.md)
+- [Grattin de Courgettes](gratin_courgettes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
 
 ## Soupes
