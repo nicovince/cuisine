@@ -1,4 +1,4 @@
-# Grattin de Courgettes
+# Gratin de Courgettes
 ## Recette d'origine
 https://www.marmiton.org/recettes/recette_gratin-de-courgettes-rapide_17071.aspx
 
