@@ -26,6 +26,7 @@
 - [Flan d'épinards](flan_epinards.md)
 - [Gratin de pommes de terre](gratin_pdt.md)
 - [Gratin de Courgettes](gratin_courgettes.md)
+- [Lasagnes Végétariennes](lasagnes_vegetariennes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
 
 ## Soupes
