@@ -3,6 +3,9 @@
 ## Apéritifs
 - [Tzatziki](tzatziki.md)
 
+## Sauces
+- [Pesto aux Fanes de Carottes](pesto_fanes_carottes.md)
+
 ## Plats
 - [Aubergines Farcies](aubergines_farcies.md)
 - [Flan aux Courgettes](flan_courgettes.md)
