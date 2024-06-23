@@ -1,5 +1,7 @@
 # crepes
 
+12 crêpes
+
 ## Recette d'origine
 Papa de Julie
 
@@ -25,4 +27,3 @@ Papa de Julie
 1. Reserver 1 heure au réfrigirateur
 
 ## Modifications
-- Liste des modifications
