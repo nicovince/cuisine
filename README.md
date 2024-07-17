@@ -9,6 +9,7 @@
 ## Plats
 - [Aubergines Farcies](aubergines_farcies.md)
 - [Flan aux Courgettes](flan_courgettes.md)
+- [Flan Courgettes Saumon](flan_courgettes_saumon.md)
 - [Irish Stew](irish_stew.md)
 - [Moelleux aux Champignons et aux Lardons](moelleux_champignons_lardons.md)
 - [Poulet aux Citrons Confits et Olives](poulet_citron_confit.md)
