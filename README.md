@@ -30,6 +30,7 @@
 - [Gratin de Courgettes](gratin_courgettes.md)
 - [Lasagnes Végétariennes](lasagnes_vegetariennes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
+- [Salade Lentilles Courgettes Feta](salade_lentilles_courgettes_feta.md)
 
 ## Soupes
 - [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
