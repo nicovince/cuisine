@@ -21,6 +21,7 @@
 - [Veau Marengo](veau_marengo.md)
 
 ## Plats végétariens
+- [Aubergines grillées au yaourt grec](aubergines_grillees_yaourt.md)
 - [Butternut au reblochon](butternut_reblochon.md)
 - [Crumble de Courges](crumble_courge.md)
 - [Curry de Pois Chiche](curry_de_pois_chiche.md)
