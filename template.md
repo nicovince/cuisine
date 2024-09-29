@@ -1,6 +1,5 @@
 # Nom du plat
-## Recette d'origine
-Lien vers la recette d'origine
+## [Recette d'origine]()
 
 ## Ingrédients
 - Liste des ingrédients
