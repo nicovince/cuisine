@@ -1,6 +1,5 @@
 # Salade Lentilles Courgettes Feta
-## Recette d'origine
-https://www.delscookingtwist.com/fr/salade-de-lentilles-courgettes-feta-et-menthe/
+## [Recette d'origine](https://www.delscookingtwist.com/fr/salade-de-lentilles-courgettes-feta-et-menthe/)
 
 ## Ingrédients
 - 150g de lentilles vertes du puy

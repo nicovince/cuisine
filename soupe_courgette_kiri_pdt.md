@@ -1,6 +1,5 @@
 # Soupe Courgette Kiri et Pommes de terre
-## Recette d'origine
-https://www.cuisineaz.com/recettes/soupe-courgette-kiri-pomme-de-terre-103600.aspx
+## [Recette d'origine](https://www.cuisineaz.com/recettes/soupe-courgette-kiri-pomme-de-terre-103600.aspx)
 
 ## Ingrédients
 - 3 courgettes

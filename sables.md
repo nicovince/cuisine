@@ -1,6 +1,4 @@
 # Sablés aux amandes ou noisettes
-## Recette d'origine
-Lien vers la recette d'origine
 
 ## Ingrédients
 - 1 oeuf

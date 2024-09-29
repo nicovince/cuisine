@@ -1,7 +1,6 @@
 # Gateau au chocolat fondant
 
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_gateau-au-chocolat-fondant-rapide_166352.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_gateau-au-chocolat-fondant-rapide_166352.aspx)
 
 ## Ingrédients (pour 6 personnes)
 - 200g de chocolat patissier

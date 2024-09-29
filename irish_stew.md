@@ -1,6 +1,5 @@
 # Irish Stew
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_irish-stew_51844.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_irish-stew_51844.aspx)
 
 ## Ingrédients
 - Sel

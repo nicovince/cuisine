@@ -1,6 +1,5 @@
 # Curry de Pois Chiche
-## Recette d'origine
-https://www.lemonde.fr/m-styles/article/2023/10/03/trois-recettes-vege-pour-un-automne-colore_6192147_4497319.html
+## [Recette d'origine](https://www.lemonde.fr/m-styles/article/2023/10/03/trois-recettes-vege-pour-un-automne-colore_6192147_4497319.html)
 
 ## Ingrédients
 - 150g de pois chiches en boite

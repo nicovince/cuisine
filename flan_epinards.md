@@ -1,7 +1,6 @@
 # Flan d'épinards
 
-## Recette d'origine
-https://www.cuisineactuelle.fr/recettes/flans-aux-epinards-314775
+## [Recette d'origine](https://www.cuisineactuelle.fr/recettes/flans-aux-epinards-314775)
 
 ## Ingrédients
 - 400g d'épinards (en boîte ou frais)

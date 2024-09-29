@@ -1,6 +1,5 @@
 # Gratin de pommes de terre
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_gratin-de-pommes-de-terre-fondant_37453.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_gratin-de-pommes-de-terre-fondant_37453.aspx)
 
 ## Ingrédients
 - 30g beurre

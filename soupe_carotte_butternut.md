@@ -1,6 +1,5 @@
 # Soupe courge butternut, carottes, patate douce
-## Recette d'origine
-https://cuisine.journaldesfemmes.fr/recette/3109805-soupe-carotte-patate-douce-et-courge-butternut
+## [Recette d'origine](https://cuisine.journaldesfemmes.fr/recette/3109805-soupe-carotte-patate-douce-et-courge-butternut)
 
 ## Ingrédients
 - 1 courge butternut 1kg

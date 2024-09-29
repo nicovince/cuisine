@@ -1,6 +1,5 @@
 # Flan Courgettes Saumon
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_flan-de-courgettes-au-saumon-fume_23001.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_flan-de-courgettes-au-saumon-fume_23001.aspx)
 
 ## Ingrédients
 - 1 pincée de muscade

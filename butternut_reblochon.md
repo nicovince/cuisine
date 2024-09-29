@@ -1,6 +1,5 @@
 # Butternut au reblochon
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_butternut-au-reblochon_230352.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_butternut-au-reblochon_230352.aspx)
 
 ## Ingrédients
 - 1/2 reblochon

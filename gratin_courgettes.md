@@ -1,6 +1,5 @@
 # Gratin de Courgettes
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_gratin-de-courgettes-rapide_17071.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_gratin-de-courgettes-rapide_17071.aspx)
 
 ## Ingrédients
 - 4 courgettes

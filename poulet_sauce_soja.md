@@ -1,6 +1,5 @@
 # Poulet sauce soja au gingembre
-## Recette d'origine
-https://www.cuisineaz.com/recettes/poulet-sauce-soja-et-gingembre-81710.aspx
+## [Recette d'origine](https://www.cuisineaz.com/recettes/poulet-sauce-soja-et-gingembre-81710.aspx)
 
 ## Ingrédients
 - 3 blancs de poulet

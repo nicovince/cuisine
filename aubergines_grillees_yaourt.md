@@ -1,6 +1,5 @@
 # Aubergines grillées au yaourt grec
-## Recette d'origine
-adaptée de https://cuisine.journaldesfemmes.fr/recette/3100811-aubergines-grillees-sauce-au-yaourt-et-aux-herbes
+## [Recette d'origine](adaptée de https://cuisine.journaldesfemmes.fr/recette/3100811-aubergines-grillees-sauce-au-yaourt-et-aux-herbes)
 
 ## Ingrédients
 

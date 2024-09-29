@@ -1,7 +1,6 @@
 # Veau Marengo
 
-## Recette d'origine
-https://www.cuisineactuelle.fr/recettes/saute-de-veau-marengo-255502
+## [Recette d'origine](https://www.cuisineactuelle.fr/recettes/saute-de-veau-marengo-255502)
 
 ## Ingrédients
 - 1kg 200 d'épaule de veau

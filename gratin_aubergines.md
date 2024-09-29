@@ -1,6 +1,5 @@
 # Gratin d'Aubergines
-## Recette d'origine
-https://www.papillesetpupilles.fr/2021/08/gratin-daubergines-mozzarella-sauce-tomate-et-parmesan.html/
+## [Recette d'origine](https://www.papillesetpupilles.fr/2021/08/gratin-daubergines-mozzarella-sauce-tomate-et-parmesan.html/)
 
 ## Ingrédients
 - 2 aubergines

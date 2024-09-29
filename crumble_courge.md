@@ -1,6 +1,5 @@
 # Crumble de Courges
-## Recette d'origine
-https://www.cuisineaz.com/recettes/crumble-de-courge-muscade-et-patate-douce-70027.aspx
+## [Recette d'origine](https://www.cuisineaz.com/recettes/crumble-de-courge-muscade-et-patate-douce-70027.aspx)
 
 ## Ingrédients
 - Courge 700g

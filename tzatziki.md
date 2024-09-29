@@ -1,6 +1,5 @@
 # Tzatziki
-## Recette d'origine
-https://www.cookomix.com/recettes/tzatziki-thermomix/
+## [Recette d'origine](https://www.cookomix.com/recettes/tzatziki-thermomix/)
 
 ## Ingrédients
 - 400g de concombres

@@ -1,6 +1,5 @@
 # Soupe Courgettes Kiri
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_veloute-de-courgettes-au-kiri_11049.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_veloute-de-courgettes-au-kiri_11049.aspx)
 
 ## Ingrédients
 - 6 courgettes

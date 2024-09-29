@@ -1,6 +1,5 @@
 # Quiche aux épinards et au jambon
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_quiche-aux-epinards_30738.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_quiche-aux-epinards_30738.aspx)
 
 ## Ingrédients
 - sel

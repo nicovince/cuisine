@@ -1,6 +1,5 @@
 # Souvlaki de Poulet à la Grecque
-## Recette d'origine
-https://larecette.net/souvlaki-de-poulet-a-la-grecque/
+## [Recette d'origine](https://larecette.net/souvlaki-de-poulet-a-la-grecque/)
 
 ## Ingrédients (pour 4 personnes)
 - 600g de cuisse de poulet

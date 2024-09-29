@@ -1,6 +1,5 @@
 # Galette des Rois
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_galette-des-rois-a-la-frangipane_20147.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_galette-des-rois-a-la-frangipane_20147.aspx)
 
 ## Ingrédients
 - 75g beurre

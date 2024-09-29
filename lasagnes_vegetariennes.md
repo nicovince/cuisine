@@ -1,6 +1,5 @@
 # Lasagnes Végétariennes
-## Recette d'origine
-https://cuisine.journaldesfemmes.fr/recette/312546-lasagnes-vegetariennes
+## [Recette d'origine](https://cuisine.journaldesfemmes.fr/recette/312546-lasagnes-vegetariennes)
 
 ## Ingrédients
 

@@ -1,6 +1,5 @@
 # Tartiflette
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_la-vraie-tartiflette_17634.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_la-vraie-tartiflette_17634.aspx)
 
 ## Ingrédients
 - 1kg de pommes de terre

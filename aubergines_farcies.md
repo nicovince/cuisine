@@ -1,7 +1,6 @@
 # Aubergines farcies
 
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_aubergines-farcies-aux-legumes-ou-mixte_17955.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_aubergines-farcies-aux-legumes-ou-mixte_17955.aspx)
 
 ## Ingrédients (pour 2 personnes)
 - 1 aubergine

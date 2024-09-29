@@ -1,6 +1,5 @@
 # Flan aux Courgettes
-## Recette d'origine
-https://www.marmiton.org/recettes/recette_flan-de-courgettes_23249.aspx
+## [Recette d'origine](https://www.marmiton.org/recettes/recette_flan-de-courgettes_23249.aspx)
 
 ## Ingrédients
 - 1kg de courgettes
