@@ -23,4 +23,4 @@
 - Truite fumée
 
 
-## [:house:](/)
+## [Retour](./)

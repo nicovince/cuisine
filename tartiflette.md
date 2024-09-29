@@ -37,4 +37,4 @@
 - 2kg de pommes de terre
 
 
-## [:house:](/)
+## [Retour](./)

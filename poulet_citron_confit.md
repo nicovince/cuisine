@@ -31,4 +31,4 @@ Lien vers la recette d'origine
 - servi avec de la semoule
 
 
-## [:house:](/)
+## [Retour](./)

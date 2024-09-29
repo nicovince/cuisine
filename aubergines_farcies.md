@@ -29,4 +29,4 @@
 1. Servir chaud ou froid.
 
 
-## [:house:](/)
+## [Retour](./)
