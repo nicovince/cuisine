@@ -31,3 +31,6 @@ https://www.marmiton.org/recettes/recette_irish-stew_51844.aspx
 - 1kg d'épaule d'agneau
 - Tripler carottes, pommes de terre
 - Remplacer 60 cl de bouillon de boeuf par 60cl eau + bouillon cube.
+
+
+## [:house:](/)

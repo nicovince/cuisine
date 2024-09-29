@@ -28,3 +28,6 @@ https://www.marmiton.org/recettes/recette_aubergines-farcies-aux-legumes-ou-mixt
 1. Mélanger puis remplir les demi-aubergines et recouvrir de gruyère rapé
 1. Remettre 5-10 minutes dans le four chaud.
 1. Servir chaud ou froid.
+
+
+## [:house:](/)
