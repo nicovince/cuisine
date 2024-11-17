@@ -8,6 +8,7 @@
 
 ## Plats
 - [Aubergines Farcies](aubergines_farcies.md)
+- [Croziflette](croziflette.md)
 - [Flan aux Courgettes](flan_courgettes.md)
 - [Flan Courgettes Saumon](flan_courgettes_saumon.md)
 - [Irish Stew](irish_stew.md)
