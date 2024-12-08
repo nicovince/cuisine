@@ -1,7 +1,4 @@
 # Poulet aux Citrons Confits et Olives
-## Recette d'origine
-Lien vers la recette d'origine
-
 ## Ingrédients
 - 3 pilons ou hauts de cuisses de poulet
 - 2 cuillères à soupe d'huile d'olive
@@ -23,8 +20,8 @@ Lien vers la recette d'origine
 1. Faire revenir l'oignon émincé et les cuisses de poulet.
 1. Lorsqu'elles sont dorées, ajouter l'ail épluché et dégermé juste écrasé avec la paume de la main, les citrons confits en tranches ainsi que les olives préalablement rincées, pour les dessaler un peu.
 1. Ajouter le demi-carré de bouillon émietté, les épices et le sucre. Ne pas ajouter de sel.
-1. Couvrir d'eau à hauteur du poulet, sans le noyer, bien mélanger et laisser cuire à feu doux pendant 35 à 40 minutes. La sauce va réduire, mais elle ne doit pas être épaisse.
-1. 5 minutes avant la fin de la cuisson, ajouter la coriandre fraîche.
+1. Couvrir d'eau à hauteur du poulet, sans le noyer, bien mélanger et laisser cuire à feu doux pendant **35 à 40 minutes**. La sauce va réduire, mais elle ne doit pas être épaisse.
+1. **5 minutes** avant la fin de la cuisson, ajouter la coriandre fraîche.
 
 ## Modifications
 - Plein d'olives
