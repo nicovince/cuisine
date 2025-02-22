@@ -44,6 +44,7 @@
 - [Crepes](crepes.md)
 - [Galette des Rois](galette_rois.md)
 - [Gateau fondant au chocolat](gateau_chocolat_fondant.md)
+- [Gateau au Yaourt](gateau_yaourt.md)
 - [Tarte aux Citrons Meringuée](tarte_citron_meringuee.md)
 - [Paves au Chocolat Amandes ou Coco](pave_chocolat_amandes_coco.md)
 
