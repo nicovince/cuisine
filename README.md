@@ -13,6 +13,7 @@
 - [Flan aux Courgettes](flan_courgettes.md)
 - [Flan Courgettes Saumon](flan_courgettes_saumon.md)
 - [Irish Stew](irish_stew.md)
+- [Lasagnes au saumon, au chèvre et aux épinards](lasagnes_saumon_chevre_epinard.md)
 - [Moelleux aux Champignons et aux Lardons](moelleux_champignons_lardons.md)
 - [Poulet aux Citrons Confits et Olives](poulet_citron_confit.md)
 - [Poulet sauce soja au gingembre](poulet_sauce_soja.md)
