@@ -1,6 +1,7 @@
 # cuisine
 
 ## Apéritifs
+- [Kiris Panés](kiri_panes.md)
 - [Tzatziki](tzatziki.md)
 
 ## Sauces
