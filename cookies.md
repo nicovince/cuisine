@@ -13,6 +13,7 @@ Quantités pour environ 30 cookies
 
 
 ## Recette
+1. Transformer le chocolat en pépites: **3 sec/vitesse 6 (140g)**
 1. Couper le beurre en morceau et le laisser ramollir.
 2. Préchauffer le four à 180°C
 3. Battre oeufs et sucre en ruban
