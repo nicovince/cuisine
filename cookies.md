@@ -22,7 +22,7 @@ Quantités pour environ 30 cookies
 6. Séparer la pate en autant de boules qu'il y a de types de chocolat
 7. Répartir les chocolats dans les différentes boules
 8. Faire des petites boules de pate+chocolat sur des plaques de cuisson
-9. Faire cuire 8min à 180°C (cookies mous à la sortie)
+9. Faire cuire 8min à 180°C (cookies mous à la sortie). (ok sans papier sulfurisé)
 
 ## Modifications
 - Avec proportions x 3/2 -> 43 cookies
