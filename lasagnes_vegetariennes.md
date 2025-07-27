@@ -25,7 +25,14 @@ Pour la sauce Béchamel :
 3. Pendant ce temps, coupez les poivrons en 4, ôtez les graines et la membrane. Faites griller à four très chaud, côté peau sur le dessus, jusqu'à ce que la peau se boursoufle et noircisse. Recouvrez les poivrons d'un film plastique pendant 5 minutes. Pelez-les et coupez-les en lanières épaisses.
 4. Rincez les aubergines sous l'eau. Egouttez-les à l'aide de papier absorbant puis badigeonnez-les d'huile. Disposez les aubergines en une seule couche sur deux plaques de four et faites cuire à température moyenne environ 40 minutes, jusqu'à ce que les aubergines soient dorées et tendres.
 5. Préparez la Béchamel : Faites fondre le beurre dans une casserole de taille moyenne. Ajoutez la farine en remuant sur le feu. Cela doit bouillir un peu et devenir un peu granuleux. Retirez du feu et versez peu à peu le lait. Remettez sur le feu et remuez jusqu'à ce que la sauce épaississe en bouillant. Eteignez et ajoutez le parmesan.
-6. Versez 1/3 de la sauce tomate dans un plat. Disposez dessus 1/3 des lasagnes, 1/3 de la sauce, la moitié des aubergines, la moitié de la mozzarella. Répétez cette disposition en couches avec un deuxième tiers de lasagnes, le reste de la sauce tomate, tous les poivrons et le reste de la mozzarella. Mettre à nouveau des lasagnes et des aubergines. Recouvrez les aubergines de pesto, puis de sauce béchamel. Recouvrez le plat et faites cuire le tout à four modéré 30 minutes. Enlevez le couvercle ou la feuille de papier aluminium, parsemez de parmesan et laissez cuire encore 30 minutes. Sortez les lasagnes du four et laissez refroidir 5 minutes avant de servir. 
+6. Versez 1/3 de la sauce tomate dans un plat.
+7. Disposez dessus 1/3 des lasagnes, 1/3 de la sauce, la moitié des aubergines, la moitié de la mozzarella.
+8. Répeter avec 1/3 des lasagnes, le reste de la sauce tomate, tous les poivrons, toute la mozzarella.
+9. Couvrir de lasagnes et du reste d'aubergines.
+10. Couvrir les aubergines de pesto, puis de sauce béchamel.
+11. Recouvrir le plat et faire cuire à four modéré **30 minutes**
+12. Enlever le couvercle et ajouter le parmesan pui laisser cuire encore **30 minutes**
+13. Sortir les lasagnes du four et laisser refroidir 5 minutes avant de servir.
 
 ## Recette Thermomix
 Béchamelle :
