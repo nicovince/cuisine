@@ -12,7 +12,8 @@
 - 75 g de mozzarella grossièrement râpée
 - 135 g de pesto
 - 40 g de parmesan râpé
-- Pour la sauce Béchamel :
+
+Pour la sauce Béchamel :
 - 60 g de beurre
 - 35 g de farine
 - 375 ml de lait
@@ -27,7 +28,9 @@
 6. Versez 1/3 de la sauce tomate dans un plat. Disposez dessus 1/3 des lasagnes, 1/3 de la sauce, la moitié des aubergines, la moitié de la mozzarella. Répétez cette disposition en couches avec un deuxième tiers de lasagnes, le reste de la sauce tomate, tous les poivrons et le reste de la mozzarella. Mettre à nouveau des lasagnes et des aubergines. Recouvrez les aubergines de pesto, puis de sauce béchamel. Recouvrez le plat et faites cuire le tout à four modéré 30 minutes. Enlevez le couvercle ou la feuille de papier aluminium, parsemez de parmesan et laissez cuire encore 30 minutes. Sortez les lasagnes du four et laissez refroidir 5 minutes avant de servir. 
 
 ## Recette Thermomix
-1. **x sec/yy°C/vitesse z**
+Béchamelle :
+1. Mettre le beurre, la farine, le lait et cuire **7 min/90°C/vitess 3**
+1. Ajouter le parmesan, mixer **5 sec/vitesse 5**
 
 ## Modifications
 - Bechamel peut être faite au thermomix
