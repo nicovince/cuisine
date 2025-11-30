@@ -51,6 +51,7 @@
 - [Crepes](crepes.md)
 - [Galette des Rois](galette_rois.md)
 - [Gateau au Yaourt](gateau_yaourt.md)
+- [Gateau au Yaourt à la Vanille](gateau_yaourt_vanille.md)
 - [Gateau fondant au chocolat](gateau_chocolat_fondant.md)
 - [Maison en pain d'épices](maison_pain_epices.md)
 - [Paves au Chocolat Amandes ou Coco](pave_chocolat_amandes_coco.md)
