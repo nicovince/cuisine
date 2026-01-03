@@ -20,6 +20,7 @@
 - [Quiche aux épinards et au Jambon](quiche_epinard_jambon.md)
 - [Sauté de Veau aux pommes de terre et carottes](saute_veau_pdt_carottes.md)
 - [Souvlaki de Poulet à la Grecque](souvlaki_de_poulet_grec.md)
+- [Tagine d'ageaux aux pruneaux](tagine_agneau_pruneau.md)
 - [Tartiflette](tartiflette.md)
 - [Veau Marengo](veau_marengo.md)
 
