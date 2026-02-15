@@ -12,6 +12,7 @@
 - [Croziflette](croziflette.md)
 - [Flan aux Courgettes](flan_courgettes.md)
 - [Flan Courgettes Saumon](flan_courgettes_saumon.md)
+- [Haricots blancs au Chorizo](haricots_blancs_chorizo.md)
 - [Irish Stew](irish_stew.md)
 - [Lasagnes au saumon, au chèvre et aux épinards](lasagnes_saumon_chevre_epinard.md)
 - [Moelleux aux Champignons et aux Lardons](moelleux_champignons_lardons.md)
