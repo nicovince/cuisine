@@ -53,6 +53,7 @@
 ## Desserts
 - [Crepes](crepes.md)
 - [Galette des Rois](galette_rois.md)
+- [Gateau au Chocolat (Thermomix express)](gateau_chocolat_thermomix.md)
 - [Gateau au Yaourt](gateau_yaourt.md)
 - [Gateau au Yaourt à la Vanille](gateau_yaourt_vanille.md)
 - [Gateau fondant au chocolat](gateau_chocolat_fondant.md)
