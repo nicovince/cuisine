@@ -44,6 +44,7 @@
 - [Moussaka aux lentilles corail](moussaka.md)
 - [Ratatouille](ratatouille.md)
 - [Salade Lentilles Courgettes Feta](salade_lentilles_courgettes_feta.md)
+- [Lasagnes aux Courgettes](lasagnes_courgettes.md)
 
 ## Soupes
 - [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
