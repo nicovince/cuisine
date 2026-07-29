@@ -40,6 +40,7 @@
 - [Gratin de pommes de terre](gratin_pdt.md)
 - [Gratin de Courgettes](gratin_courgettes.md)
 - [Lasagne à la Courge et Fourme d'Ambert](lasagne_courge_fourme_ambert.md)
+- [Lasagnes aux Courgettes](lasagnes_courgettes.md)
 - [Lasagnes Courge Ricotta](lasagne_courges.md)
 - [Lasagnes Végétariennes](lasagnes_vegetariennes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
