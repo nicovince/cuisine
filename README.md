@@ -31,6 +31,7 @@
 - [Butternut au reblochon](butternut_reblochon.md)
 - [Butternut farcie au quinoa et pois chiches](butternut_farcie_quinoa_pois_chiche.md)
 - [Crumble de Courges](crumble_courge.md)
+- [Crumble de Légumes](crumble_de_legumes.md)
 - [Curry de Patate Douce](curry_de_patate_douce.md)
 - [Curry de Pois Chiche](curry_de_pois_chiche.md)
 - [Flan d'épinards](flan_epinards.md)
