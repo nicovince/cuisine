@@ -44,6 +44,7 @@
 - [Lasagnes Courge Ricotta](lasagne_courges.md)
 - [Lasagnes Végétariennes](lasagnes_vegetariennes.md)
 - [Moussaka aux lentilles corail](moussaka.md)
+- [Patates Douces Roties](patates_douces_roties.md)
 - [Ratatouille](ratatouille.md)
 - [Salade Lentilles Courgettes Feta](salade_lentilles_courgettes_feta.md)
 
