@@ -67,6 +67,7 @@
 
 ## Gouter
 - [Barres cereales](barre_cereale.md)
+- [Clafoutix aux Cerises](clafoutis_cerises.md)
 - [Cookies](cookies.md)
 - [Sablés aux amandes ou noisettes](sables.md)
-- [Clafoutix aux Cerises](clafoutis_cerises.md)
+- [Pâte à tartiner aux Speculoos](pate_tartiner_speculoos.md)
