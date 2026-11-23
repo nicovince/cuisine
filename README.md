@@ -52,6 +52,7 @@
 - [Soupe courge butternut, carottes, patate douce](soupe_carotte_butternut.md)
 - [Soupe Courgettes et Kiri](soupe_courgettes_kiri.md)
 - [Soupe Courgette, Kiri et Pommes de terre](soupe_courgette_kiri_pdt.md)
+- [Velouté de lentilles vertes et épinards](veloute_lentilles_vertes_epinards.md)
 
 
 ## Desserts
